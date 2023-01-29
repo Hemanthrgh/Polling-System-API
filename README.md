@@ -19,7 +19,7 @@ just a api
         ![Screenshot from 2023-01-29 13-10-24](https://user-images.githubusercontent.com/111546458/215325165-974c4415-1346-4814-b13b-e4b4e2a924bd.png)
 
         ### `options/:id/add_vote (To increment the count of votes)`\
-        ![Screenshot from 2023-01-29 13-03-37](https://user-images.githubusercontent.com/111546458/215325219-f6db4dc5-4b66-446d-9d63-6eb1e98f0736.png)
+![Screenshot from 2023-01-29 13-03-37](https://user-images.githubusercontent.com/111546458/215325219-f6db4dc5-4b66-446d-9d63-6eb1e98f0736.png)
 
         ### `questions/:id (To view a question and it’s options)`\
 ![Screenshot from 2023-01-29 13-07-53](https://user-images.githubusercontent.com/111546458/215325267-dc358cac-276b-4cd7-9b94-e8a5e0e8eb67.png)
